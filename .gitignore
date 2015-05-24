@@ -1,3 +1,4 @@
 certificate.crt
 certificate.key
 .*.swp
+Gemfile.lock

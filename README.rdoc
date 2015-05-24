@@ -34,6 +34,10 @@ Use it:
    end
  end
 
+== Tests
+
+  CHROMECAST_IP="192.168.1.108" ruby test/chromecast_test.rb
+
 == To Do
 
 * Scanning for devices

@@ -28,4 +28,6 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'ruby-tls', '~> 1.0'
   s.add_runtime_dependency 'protobuf', '~> 3.3'
+
+  s.add_development_dependency 'pry'
 end
